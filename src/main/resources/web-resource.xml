@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<Webresource>
+    <Aggregation aggregatedFileName="js/foundation-web-component.js">
+        <FilePath>js/foundation/core/common.js</FilePath>
+        <FilePath>js/foundation/keyboard/hungarian.js</FilePath>
+        <FilePath>js/foundation/index.js</FilePath>
+        <FilePath>js/foundation/MainCtrl.js</FilePath>
+        <FilePath>js/foundation/defaultpayment/DefaultPayment.js</FilePath>
+        <FilePath>js/foundation/defaultpayment/Directives.js</FilePath>	
+    </Aggregation>
+    <Aggregation aggregatedFileName="js/foundation-web-component-login.js">
+        <FilePath>js/foundation/core/common.js</FilePath>
+        <FilePath>js/foundation/keyboard/hungarian.js</FilePath>	
+        <FilePath>js/pegasus/function/login/auth/LoginIdPanel.js</FilePath>
+        <FilePath>js/pegasus/function/login/auth/PasswordPanel.js</FilePath>
+        <FilePath>js/pegasus/function/login/auth/OneTimePasswordPanel.js</FilePath>
+        <FilePath>js/pegasus/function/login/auth/MobileTokenPanel.js</FilePath>
+        <FilePath>js/pegasus/function/login/auth/CapSelectPanel.js</FilePath>
+        <FilePath>js/pegasus/function/login/auth/PasswordChangePanel.js</FilePath>
+        <FilePath>js/pegasus/function/login/auth/module.js</FilePath>
+        <FilePath>js/pegasus/function/login/LanguageSelector.js</FilePath>
+        <FilePath>js/pegasus/function/login/LoginController.js</FilePath>
+        <FilePath>js/pegasus/function/login/LoginConfig.js</FilePath>
+        <FilePath>js/pegasus/function/login/module.js</FilePath>
+    </Aggregation>
+    <Aggregation aggregatedFileName="js/foundation-web-component-logout.js">
+        <FilePath>js/foundation/core/common.js</FilePath>
+        <FilePath>js/pegasus/function/logout/ActionOrder.js</FilePath>
+        <FilePath>js/pegasus/function/logout/LogoutController.js</FilePath>
+        <FilePath>js/pegasus/function/logout/LogoutConfig.js</FilePath>
+        <FilePath>js/pegasus/function/logout/module.js</FilePath>
+    </Aggregation>
+</Webresource>
